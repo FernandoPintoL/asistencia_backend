@@ -1,0 +1,12 @@
+# Configuración local con contraseñas
+.env
+
+# Python
+__pycache__/
+*.pyc
+venv/
+env_backend
+
+# Base de datos local y archivos generados
+db.sqlite3
+staticfiles/
